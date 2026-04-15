@@ -1,0 +1,4 @@
+start (first commit)
+fix something (second commit)
+typo fixed (third commit)
+done (fourth commit)
